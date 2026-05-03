@@ -9,7 +9,7 @@ A high-performance internet radio based on the ESP32-S3, featuring a customized 
 ## 📸 Gallery
 
 <p align="center">
-  <img src="Hardware_view.jpg" width="45%" alt="Hardware View">
+  <img src="Hardware_main.jpg" width="45%" alt="Hardware View">
   <img src="Web_interface.jpg" width="45%" alt="Web Interface">
 </p>
 <p align="center">
